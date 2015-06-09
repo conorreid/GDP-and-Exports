@@ -1,0 +1,2 @@
+GDP per capita comes from Gapminder (http://www.gapminder.org/documentation/documentation/gapdata001%20v14.xlsx)
+Exports as percentage of GDP comes from the World Bank (http://data.worldbank.org/indicator/NE.EXP.GNFS.ZS)
